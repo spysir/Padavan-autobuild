@@ -1,4 +1,5 @@
 #修改TNAME: K2P-5.0 中的K2P-5.0为你需要编译的型号， rm2100=红米AC2100，K2P跟K2P-5.0固件不相同，注意名称要与configs/templates/目录下的名字相同
+#名称查询路径rt-n56u/trunk/configs/templates/
 name: Build Padavan-K2P
 
 on: 
